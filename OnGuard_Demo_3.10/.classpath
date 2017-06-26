@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="src_batch"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/lib"/>
+	<classpathentry exported="true" kind="lib" path="D:/Selenium projects/Workspace/OnGuard_Demo_3.10/jar/ant.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Selenium projects/Workspace/OnGuard_Demo_3.10/jar/ant-javamail.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Selenium projects/Workspace/OnGuard_Demo_3.10/jar/ant-launcher-1.6.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Selenium projects/Workspace/OnGuard_Demo_3.10/jar/dsn.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Selenium projects/Workspace/OnGuard_Demo_3.10/jar/gimap.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Selenium projects/Workspace/OnGuard_Demo_3.10/jar/imap.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Selenium projects/Workspace/OnGuard_Demo_3.10/jar/java-mail-1.4.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Selenium projects/Workspace/OnGuard_Demo_3.10/jar/javax.activation.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Selenium projects/Workspace/OnGuard_Demo_3.10/jar/jcommander.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Selenium projects/Workspace/OnGuard_Demo_3.10/jar/jxl.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Selenium projects/Workspace/OnGuard_Demo_3.10/jar/log4j-1.2.16.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Selenium projects/Workspace/OnGuard_Demo_3.10/jar/mailapi.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Selenium projects/Workspace/OnGuard_Demo_3.10/jar/microsoft-mssqlserver.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Selenium projects/Workspace/OnGuard_Demo_3.10/jar/msbase.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Selenium projects/Workspace/OnGuard_Demo_3.10/jar/mssqlserver.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Selenium projects/Workspace/OnGuard_Demo_3.10/jar/msutil.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Selenium projects/Workspace/OnGuard_Demo_3.10/jar/pop3.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Selenium projects/Workspace/OnGuard_Demo_3.10/jar/reportng-1.1.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Selenium projects/Workspace/OnGuard_Demo_3.10/jar/saxon-8.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Selenium projects/Workspace/OnGuard_Demo_3.10/jar/SaxonLiaison.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Selenium projects/Workspace/OnGuard_Demo_3.10/jar/selenium-java-2.47.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Selenium projects/Workspace/OnGuard_Demo_3.10/jar/selenium-server-standalone-2.47.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Selenium projects/Workspace/OnGuard_Demo_3.10/jar/sikuli-script.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Selenium projects/Workspace/OnGuard_Demo_3.10/jar/smtp.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Selenium projects/Workspace/OnGuard_Demo_3.10/jar/sqljdbc4.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Selenium projects/Workspace/OnGuard_Demo_3.10/jar/testng-6.8.6beta.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Selenium projects/Workspace/OnGuard_Demo_3.10/jar/tools.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Selenium projects/Workspace/OnGuard_Demo_3.10/jar/velocity-dep-1.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/Selenium projects/Workspace/OnGuard_Demo_3.10/jar/xercesImpl-2.9.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

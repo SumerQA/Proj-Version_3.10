@@ -1,0 +1,15 @@
+/Configration_Files/
+/Event_commands/
+/Functional_Configration/
+/Import_Manager/
+/OnGuard_Login_Functionality/
+/Onguard/
+/Technical_Configration/
+/User_Manager/
+/appMan_Pages/
+/batch/
+/batch_Pages/
+/log4j.properties
+/object.properties
+/testng_AppMan.xml
+/testng_batch.xml

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="OnGuard Application Manager and Batch Test Suite"
+	verbose="1" parallel="false" thread-count="1" preserve-order="true">
+	<!-- Chrome = CH, Firefox =FF and Internet Explorer= IE -->
+
+	<!-- English = EN, Dutch =NL ,French = FR, German = DE, Spanish =ES, Portuguese 
+		= PT, Italian =IT,Polish = PO, Russian =RUS, Turkish = TUR -->
+	<parameter name="Browser" value="CH" />
+	<parameter name="Locale" value="EN" />
+	<parameter name="URL" value="https://192.168.0.161/ApplicationManager" />
+	<suite-files>
+	    <suite-file path="D:\Selenium projects\Workspace\OnGuard_Demo_3.10\src\testng_AppMan.xml" />
+	    <suite-file path="D:\Selenium projects\Workspace\OnGuard_Demo_3.10\src_batch\testng_batch.xml" />  
+	 </suite-files>
+ </suite>
